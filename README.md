@@ -8,7 +8,7 @@ This is a collection of root-finding numerical methods implemented in Python. In
 
 Resources for each numerical method can be found below.
 
-![Root Image](http://url/to/img.png)(images/fx-root.png)
+![Root Image](images/fx-root.png)
 
 ## Dependencies
 
